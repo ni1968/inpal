@@ -1,0 +1,183 @@
+
+    <!-- 有時貝果 主頁 -->
+<pageHome>
+    <mainDiv class="row abc">
+        
+        <div class="embed-responsive embed-responsive-4by3">
+                
+            <!-- <iframe width="800" height="600" src="https://www.youtube.com/embed/tIDpoz-t4JA" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tIDpoz-t4JA" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        </div>  
+        <!-- 處理輪播圖形 -->
+    <!--
+        <mainImg class="col-md-12"></mainImg>
+    
+        <div class="col-md-12" id="intro">
+            <div class='ttlf mainCube shadow777'> 
+                <h1><strong>suntime 有時貝果</strong></h1>
+                日本昭和製粉、天然酵母、三溫糖、海鹽、法國發酵奶油…揉入味蕾的記憶與季節的食材，給予麵團適當的水份以及剛剛好的溫度；再來一分鐘90℃的熱水浴。一顆顆有時的手感貝果呈現了！希望剛好妳（你）也喜歡～
+            </div>            
+        </div>
+    -->
+    </mainDiv>
+    <div class="row">
+        <div class="col-md-4">
+            <img src="img/qrFb.jpg" width="150">            
+            <p><a href="https://www.facebook.com/suntime17" target="_blank">suntime 粉絲專頁 @suntime17</a></p>
+        </div>
+        <div class="col-md-4">
+            <img src="img/line.jpg" width="150">
+            <p>Line好友 ID：</p>
+        </div>        
+
+    </div>
+    <br>
+    <br>
+
+
+</pageHome>
+    <!-- 貝果口味 -->
+<pageBrief>    
+    <mmenu>
+        <div class="row" id="foodType">
+            <div class="col-md-4 col-xs-6">
+                <img class='thumbPic' src='img/bagel/mum.jpg'></img>
+                <p class='ttItem'>蔓越莓起司 （全新口味上市）<small>　奶素</small></p>
+                <ul class="list-unstyled">                        
+                    <li class='ttPrize'>定價：每個 NT$50</li>
+                </ul>
+                <p class="ttItemIntro">
+                    生長於北美的小紅寶石果，加上荷蘭天然熟成的米摩勒特起司，微鹹的味道帶著果香，與酸甜莓果之間交織了和諧的滋味！
+                </p> 
+            </div>            
+            <div class="col-md-4 col-xs-6">
+                <img class='thumbPic' src='img/bagel/gnbg01.jpg'></img>
+                <p class='ttItem'>吉拿貝果 （全新口味上市）<small>　奶素</small></p>
+                <ul class="list-unstyled">                        
+                    <li class='ttPrize'>每個 定價：NT$50</li>
+                </ul>
+                <p class="ttItemIntro">
+                    以貝果少油少糖的概念出發，麵糰裡加入足量的胡桃，選用日本Gaban頂級肉桂粉，香味溫和有深度，表面的中雙糖讓甜味帶著口感。
+                </p> 
+            </div>            
+            <div class="col-md-4 col-xs-6">
+                <img class='thumbPic' src='img/bagel/mg0.jpg'></img>
+                <p class='ttItem'>芒果 / 芒果奶油起司<small>　奶素</small></p>
+                <ul class="list-unstyled">                        
+                    <li class='ttPrize'>定價：每個 NT$55</li>
+                </ul>
+                <p class="ttItemIntro">
+                    台南玉井生產的新鮮芒果，手工切片、烘烤。天然香甜的夏之果經過酒釀後，無論是單純芒果、或是與奶油起司交織的味道都十分迷人。
+                </p>                
+
+            </div>            
+            <div class="col-md-4 col-xs-6">
+                    <img class='thumbPic' src='img/bagel/ss.jpg'></img>
+                    <p class='ttItem'>桑葚 / 桑葚奶油起司 (季節限定)<small>　奶素</small></p>
+                    <ul class="list-unstyled">                        
+                        <li class='ttPrize'>定價：每個 NT$50</li>
+                    </ul>
+                    <p class="ttItemIntro">
+                        每年四月份，趁著桑葚果產季展開自家製桑葚果醬的時刻；挑選、清洗、瀝乾，再用冰糖熬煮3個半小時……。把桑葚果醬揉入麵糰、包入餡料，呈現自慢的風味。
+                    </p>                    
+                </div>            
+
+            <div class="col-md-4 col-xs-6">
+                <img class='thumbPic' src='img/bagel/dshc.jpg'></img>
+                <p class='ttItem'>德式香腸<small>　葷食</small></p>
+                    <ul class="list-unstyled">                            
+                            <li class='ttPrize'>定價：每個 NT$50</li>
+                    </ul>
+                    <p class="ttItemIntro">
+                        恆春洋蔥加入麵糰，挑選信譽可靠的信功豬德式香腸，表面撒上滿滿七彩胡椒香。
+                    </p>
+            </div>        
+            <div class="col-md-4 col-xs-6">
+                <img class='thumbPic' src='img/bagel/dshcbgj.jpg'></img>
+                <p class='ttItem'>德式香腸貝果捲<small>　葷食</small></p>
+                    <ul class="list-unstyled">                            
+                            <li class='ttPrize'>定價：每個 NT$55</li>
+                    </ul>
+                    <p class="ttItemIntro">
+                        好吃的信功豬德式香腸，用貝果麵糰圈裹成捲，滿足與幸福的滋味。
+                    </p>
+            </div>        
+            <div class="col-md-4 col-xs-6">
+                    <img class='thumbPic' src='img/bagel/htfmd.jpg'></img>
+                    <p class='ttItem'>核桃蜂蜜丁<small>　奶素</small></p>
+                        <ul class="list-unstyled">                            
+                                <li class='ttPrize'>定價：每個 NT$50</li>
+                        </ul>
+                        <p class="ttItemIntro">
+                            核桃麵糰裡包入日本加藤美蜂園的蜂蜜丁，非常協調的滋味。
+                        </p>
+            </div>        
+            
+            <div class="col-md-4 col-xs-6">
+                    <img class='thumbPic' src='img/bagel/echne2.jpg'></img>
+                    <p class='ttItem'>鹽之花奶油<small>　奶素</small></p>
+                    <ul class="list-unstyled">                        
+                            <li class='ttPrize'>定價：每個 NT$45</li>
+                    </ul>
+                    <p class="ttItemIntro">
+                        桿捲的麵糰包裹著法國的發酵鹽奶油，再以台南在地的鹽之花賦予層次的鹽味。
+                    </p>
+                    
+                </div>            
+                <div class="col-md-4 col-xs-6">
+                    <img class="thumbPic" src='img/bagel/ccfmd0.jpg'></img>
+                    <p class='ttItem'>可可蜂蜜丁<small>　奶素</small></p>
+                        <ul class="list-unstyled">                            
+                                <li class='ttPrize'>定價：每個 NT$52</li>
+                        </ul>
+                    <p class="ttItemIntro">
+                        頂級法國法芙娜100%黑可可粉，讓麵糰有著濃濃的巧克力香，包入日本蜂蜜丁、比利時珍珠糖，及法芙娜巧克力豆，散發濃郁巧克力的甜滋味。
+                    </p>
+                        
+                </div>
+    
+                <div class="col-md-4 col-xs-6">
+                    <img class='thumbPic' src='img/bagel/csscj0.jpg'></img>
+                    <p class='ttItem'>起司三重奏<small>　奶素</small></p>
+                        <ul class="list-unstyled">                            
+                                <li class='ttPrize'>定價：每個 NT$50</li>
+                        </ul>
+                    <p class="ttItemIntro">
+                        切達、帕瑪森、馬茲摩拉 三種起司共譜香氣濃郁的協奏曲。
+                    </p>
+                </div>        
+                <div class="col-md-4 col-xs-6">
+                    <img class='thumbPic' src='img/bagel/cklht1.jpg'></img>
+                    <p class='ttItem'>巧克力杏桃<small>　奶素</small></p>
+                        <ul class="list-unstyled">                            
+                                <li class='ttPrize'>定價：每個 NT$52</li>
+                        </ul>
+                    <p class="ttItemIntro">
+                        使用頂級法國法芙娜100%黑可可粉及巧克力豆，當巧克力與杏桃相遇，入口回味，絕佳搭配！
+                    </p>
+                </div>        
+                <div class="col-md-4 col-xs-6">
+                    <img class='thumbPic' src='img/bagel/hgemj0.jpg'></img>
+                    <p class='ttItem'>黃金亞麻籽<small>　奶素</small></p>
+                        <ul class="list-unstyled">                            
+                            <li class='ttPrize'>定價：每個 NT$40</li>
+                        </ul>    
+                        <p class="ttItemIntro">
+                            麵糰中揉入黃金亞麻籽，烤出營養，也烤出特別的風味。
+                        </p>
+                </div>
+                <div class="col-md-4 col-xs-6">
+                    <img class='thumbPic' src='img/bagel/uw1.jpg'></img>
+                    <p class='ttItem'>原味<small>　奶素</small></p>
+                        <ul class="list-unstyled">                            
+                                <li class='ttPrize'>定價：每個 NT$35</li>
+                        </ul>
+                        <p class="ttItemIntro">
+                            貝果的初心，精心手製，特別軟Q的口感，喜愛貝果的您，一定要品嚐看看。
+                        </p>
+                </div>        
+                
+        </div>    
+    </mmenu>
+</pageBrief>
